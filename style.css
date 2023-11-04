@@ -1,0 +1,22 @@
+body{
+    background-image:url(img.jpg) ;
+}
+#head4{
+    color: rgb(150, 71, 160);
+}
+.form-label{
+    color: rgb(29, 4, 53);
+    
+}
+
+.form-border {
+    padding: 20px 35px 0px 35px;
+    border: 2px solid #5b2b63;
+    
+}
+#btn1{
+    color: rgb(29, 4, 53);
+    background-color:#5b2b63 ;
+    border:#5b2b63  ;
+
+}
