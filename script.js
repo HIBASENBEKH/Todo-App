@@ -8,7 +8,7 @@
     
         if (uname == "admin" && psd == 12345) {
             alert("Login Successfull");
-            window.location.assign("../mainpage.html");
+            window.location.assign("../Todo-App/mainpage.html");
             return false;
         }
         else if (uname != "admin") {
